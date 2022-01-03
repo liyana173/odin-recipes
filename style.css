@@ -1,0 +1,30 @@
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(32, 97, 90);
+}
+
+.main-list a,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(247, 65, 65);
+}
+
+.main-list li {
+    color: darkgreen;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h4 {
+    color: rgb(236, 9, 47);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li,
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
